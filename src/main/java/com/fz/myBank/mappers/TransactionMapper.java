@@ -3,7 +3,6 @@ package com.fz.myBank.mappers;
 import com.fz.myBank.dao.Transaction;
 import com.fz.myBank.dto.TransactionDto;
 import org.springframework.beans.BeanUtils;
-import org.springframework.context.annotation.Bean;
 
 import java.util.ArrayList;
 import java.util.List;
